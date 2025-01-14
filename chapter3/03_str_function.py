@@ -15,15 +15,6 @@
 
 # 6. string.replace(oldword,newword) -> This function replace the oldword with newword in the enter string
 
-""" Escape Sequence Characters"""
-
-# Sequence of  Character after backslash '\' -> Escape Sequence characters
-
-# Escape sequence characters comprises of more than one characters but represents one character when used within the strings
-
-# Example \n        , \t     , \'            , \\        etc
-#         newline    Tab     Single quote   backslash
-
 name = "aaryan"
 
 print(len(name))
