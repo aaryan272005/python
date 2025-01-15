@@ -9,8 +9,7 @@ no_students= int(input("How many marks of students would you like to list? "))
 # Use a for loop to get the studnets names from the user
 for i in range(no_students):
     students=(input(f"Enter marks of students {i+1}: "))
-    students.append(marks)
-
+    marks.append(int(students))
 
 # Display the list students entered by the user
 print(f"The list students you entered is:\t{marks}")
