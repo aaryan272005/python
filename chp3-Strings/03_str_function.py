@@ -1,5 +1,8 @@
 """String Functions"""
 
+#NOTE: String remains the same,using a function means creating a whole new String
+
+
 # Some of the mostly used  functions to perform opertions on or manipulate strings are:
 
 # 1. '''len(): returns the length of the string
@@ -21,3 +24,6 @@ print(len(name))
 print(name.startswith("aa"))  # Capital letters are different
 print(name.endswith("an"))  # It is case sensitive
 print(name.capitalize())  # have effect only on the first character
+print(name.replace("  "," ")) # replace
+
+
