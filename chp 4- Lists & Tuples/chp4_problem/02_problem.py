@@ -1,5 +1,5 @@
 '''Write a program to accept marks of the 'n' number of students and display them in a sorted manner '''
-# NOTE:On Hold
+
 # Initialize an empty list 
 marks = []
 
