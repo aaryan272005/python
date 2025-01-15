@@ -13,3 +13,9 @@ for i in range(no_students):
 
 # Display the list students entered by the user
 print(f"The list students you entered is:\t{marks}")
+
+# Sort the list in ascending order
+marks.sort()
+
+# Display the sorted list of students
+print(f"The sorted list of students is:\t{marks}")
