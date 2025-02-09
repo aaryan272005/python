@@ -4,7 +4,7 @@ password = input("Enter a Password:")
 if password == "Coder@123":
  print("important message")
 else :
- print("Wrong password !!") 
+ print("Wrong password!!") 
 
 ''' 
 1)a variable name can contain alphabet,digits,underscores
